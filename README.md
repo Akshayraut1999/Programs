@@ -1,2 +1,3 @@
 # Programs
-This are the practice programs
+This Project Contains Logical & Pattern Programs.
+Author - Akshay Raut
